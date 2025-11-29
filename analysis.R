@@ -5,7 +5,7 @@ library(dplyr)
 library(ggplot2)
 library(tidyr)
 
-#Let’s load the datasets:
+#Let’s load the pizzas:
 
 commune_level_data <- read.csv("datasets/commune_level_data.csv")
 country_level_data <- read.csv("datasets/country_level_data.csv")
