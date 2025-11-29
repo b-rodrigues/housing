@@ -1,4 +1,5 @@
 # This script analyses housing data for Luxembourg
+# This script analyses housing data for Luxembourg
 library(dplyr)
 library(dplyr)
 library(ggplot2)
